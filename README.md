@@ -2,7 +2,7 @@
 
 Welcome to the **source code repository** of my personal portfolio website, built using **HTML**, **CSS**, and **JavaScript**. This website serves as a digital platform to showcase my **skills, projects, experience, and achievements** in the field of **Mechanical Engineering and Design Automation**.
 
-> 🔗 Live Demo: [https://yourusername.github.io/portfolio-website](https://legendffyt290803.github.io/my-portfolio/)
+> 🔗 Live Demo: [https://legendffyt290803.github.io/my-portfolio/]
 
 ---
 
